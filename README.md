@@ -1,6 +1,17 @@
-# Final Project
+# Online store "Postil' bedding"
+![](Screenshot_1.png)
 
-Final Project - Online shop "Postil' bedding"
+It's a finale project on it-courses. We have worked in team with 6 members for about a 2 month and implemented all 
+popular functional and
+features for online stores
+
+
+#### Link to deployed project:
+https://fp-postil-bedding.herokuapp.com/
+
+
+#### Link to project presentation:
+https://docs.google.com/presentation/d/1CBFV4Z9PBZjipS-x3z4KodsS_i2IgTSlwFx6lEovX9I/edit?usp=sharing
 
 ## Technology stack:
 1. HTML5
@@ -19,16 +30,32 @@ Final Project - Online shop "Postil' bedding"
 
 
 ## Team members:
-1. [Yaroslav Verbitsky](https://github.com/nikolasdelunko)
-2. [Darina Otroshenko](https://github.com/OtroshenkoDarina)
-3. [Elizabeth Rudaya](https://github.com/lizarudayaa)
-4. [Igor Nikonov](https://github.com/IggyDev34)
-5. [Vitaliy Gukalov](https://github.com/Vitaliy-1809)
-6. [Andriy Litvinenko](https://github.com/Shootka)
-7. [Daniil Khlyvniuk](https://github.com/Daniil-Khlyvniuk)
+1. [Daniil Khlyvniuk](https://github.com/Daniil-Khlyvniuk)
+2. [Yaroslav Verbitsky](https://github.com/nikolasdelunko)
+3. [Darina Otroshenko](https://github.com/OtroshenkoDarina)
+4. [Elizabeth Rudaya](https://github.com/lizarudayaa)
+5. [Igor Nikonov](https://github.com/IggyDev34)
+6. [Vitaliy Gukalov](https://github.com/Vitaliy-1809)
+7. [Andriy Litvinenko](https://github.com/Shootka)
 8. [Aleksandr Mayboroda](https://github.com/AlexMaybee)
 
 ## What tasks were accomplished by team members:
+
+#### Daniil Klyvniuk (i am): 
+1. Config prettier / esLint;
+2. \**Refaction server for product
+   variability;
+3. Search products by autocomplete (backend part);
+4. Saving images on server;
+5. Product filter (backend part);
+
+(**) Initially, we were given a ready-made server and it was planned that we would only do the front-end part. But 
+our layout assumed product variability, which was not supported by that server. Now, the same product can have 
+different variations in color, size, price, id and amount. Like 
+[this one for example](https://fp-postil-bedding.herokuapp.com/product-details/61a653e8253d3605949967ec) - one product with different colors and productId.
+
+This was my first experience with Node.js, noSQL database.
+_____
 
 Yaroslav Verbitsky:
 1. Page 404
@@ -72,10 +99,6 @@ Andriy Litvinenko:
 6. Adaptive design of components and pages(using MUI).
 7. Covering project with tests (partly).
 
-
-Daniil Khlyvniuk:
-1. Server
-
 Aleksandr Mayboroda:
 1. Footer - styles, adaptive (partly).
 2. Subscribe form - logic and styles.
@@ -92,9 +115,3 @@ Darina Otroshenko and Igor Nikonov:
 * Originally started with a team, but decided to leave the project
 
 
-## Link to deployed project:
-https://fp-postil-bedding.herokuapp.com/
-
-
-## Link to project presentation:
-https://docs.google.com/presentation/d/1CBFV4Z9PBZjipS-x3z4KodsS_i2IgTSlwFx6lEovX9I/edit?usp=sharing

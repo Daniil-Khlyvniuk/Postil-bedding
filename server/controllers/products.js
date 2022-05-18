@@ -31,8 +31,8 @@ exports.addProduct = async (req, res) => {
     manufacturerCountry,
     seller,
     variants = [],
-    size: sizeName, // do not touch
-    color: colorName, // do not touch
+    size: sizeName,
+    color: colorName,
     ...variantData
   } = req.body;
   try {
