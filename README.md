@@ -41,7 +41,7 @@ https://docs.google.com/presentation/d/1CBFV4Z9PBZjipS-x3z4KodsS_i2IgTSlwFx6lEov
 
 ## What tasks were accomplished by team members:
 
-#### Daniil Klyvniuk (i am): 
+#### Daniil Klyvniuk: 
 1. Config prettier / esLint;
 2. \**Refaction server for product
    variability;
