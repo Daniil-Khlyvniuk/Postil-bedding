@@ -1,7 +1,7 @@
 # Online store "Postil' bedding"
 ![](Screenshot_1.png)
 
-It's a finale project on it-courses. We have worked in team with 6 members for about a 2 month and implemented all 
+It's a finale project on it-courses. We have worked in a team with 6 members for about a 2 month and implemented all 
 popular functional and
 features for online stores
 
